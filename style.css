@@ -33,13 +33,14 @@ html, body{
 
 .pages{
     display: flex;
-    justify-content: end;
-    align-items: center;
+        justify-content: end;
+        align-items: center;
     padding-top: 10vh;
 }
 
-.pages-1{
-    height: 165vh;
+.socialIconsmain{
+    height: 160vh;
+    /* background-color: #6F7373; */
 
 }
 
