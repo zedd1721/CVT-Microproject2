@@ -301,8 +301,8 @@ nav{
 }
 
 .left-card .info{
-    height: 133px;
-    width: 397px;
+    height: 9vw;
+    width: 26vw;
     background-color: #BCE0F6;
     border-radius: 21px;
 
@@ -316,8 +316,8 @@ nav{
 
 
 .left-card .bookmark{
-    height: 133px;
-    width: 397px;
+    height: 9vw;
+    width: 26vw;
     border: 5px solid white;
     border-radius: 21px;
 
@@ -330,8 +330,8 @@ nav{
 }
 
 .left-card .setting{
-    height: 133px;
-    width: 397px;
+    height: 9vw;
+    width: 26vw;
     border: 5px solid white;
     border-radius: 21px;
 
